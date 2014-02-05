@@ -1,0 +1,17 @@
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\MazeSolver\MazeSolver\bin\Debug\MazeSolver.exe.config
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\MazeSolver\MazeSolver\bin\Debug\MazeSolver.exe
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\MazeSolver\MazeSolver\bin\Debug\MazeSolver.pdb
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\MazeSolver\MazeSolver\obj\Debug\MainWindow.baml
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\MazeSolver\MazeSolver\obj\Debug\MainWindow.g.cs
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\MazeSolver\MazeSolver\obj\Debug\App.g.cs
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\MazeSolver\MazeSolver\obj\Debug\MazeSolver_MarkupCompile.cache
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\MazeSolver\MazeSolver\obj\Debug\MazeSolver.g.resources
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\MazeSolver\MazeSolver\obj\Debug\MazeSolver.Properties.Resources.resources
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\MazeSolver\MazeSolver\obj\Debug\MazeSolver.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\MazeSolver\MazeSolver\obj\Debug\MazeSolver.exe
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\MazeSolver\MazeSolver\obj\Debug\MazeSolver.pdb
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\MazeSolver\MazeSolver\bin\Debug\MazeSolver.exe.manifest
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\MazeSolver\MazeSolver\bin\Debug\MazeSolver.application
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\MazeSolver\MazeSolver\obj\Debug\MazeSolver.exe.manifest
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\MazeSolver\MazeSolver\obj\Debug\MazeSolver.application
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\MazeSolver\MazeSolver\obj\Debug\MazeSolver.csprojResolveAssemblyReference.cache

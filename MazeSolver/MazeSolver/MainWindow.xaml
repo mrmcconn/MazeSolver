@@ -1,0 +1,14 @@
+﻿<Window x:Class="MazeSolver.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Maze Solver" Height="467" Width="434">
+    <Grid Margin="0,0,0,0" Background="#FFC8C8C8">
+        <TextBlock x:Name="MazeDisplay" HorizontalAlignment="Center" Height="350" Margin="0" TextWrapping="Wrap" VerticalAlignment="Center" Width="400" FontFamily="Lucida Console" Background="#FFF3F0F0"/>
+        <Label Content="Character trail:" HorizontalAlignment="Left" Height="25" Margin="10,10,0,0" VerticalAlignment="Top" Width="93"/>
+        <ComboBox x:Name="cboMazeWalkerList" HorizontalAlignment="Left" Height="25" Margin="103,10,0,0" VerticalAlignment="Top" Width="140" SelectionChanged="cboMazeWalkerList_SelectionChanged"/>
+        <Button x:Name="buttonGenerateMaze" Content="Generate Maze" HorizontalAlignment="Right" Height="22" Margin="0,402,152,0" VerticalAlignment="Top" Width="93" Click="buttonGenerateMaze_Click"/>
+        <Label Content="Solution exists:" HorizontalAlignment="Right" Height="29" Margin="0,400,57,0" VerticalAlignment="Top" Width="90"/>
+        <Label x:Name="lblSolutionFound" Content="" HorizontalAlignment="Right" Height="27" Margin="0,402,12,0" VerticalAlignment="Top" Width="45" Background="#00000000" FontWeight="Bold"/>
+
+    </Grid>
+</Window>
